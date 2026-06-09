@@ -8,8 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/reshabweb/HEALTHCARE-BACKEND?style=for-the-badge\&color=7C3AED)](https://github.com/reshabweb/HEALTHCARE-BACKEND/stargazers)
 [![Forks](https://img.shields.io/github/forks/reshabweb/HEALTHCARE-BACKEND?style=for-the-badge\&color=58A6FF)](https://github.com/reshabweb/HEALTHCARE-BACKEND/forks)
 [![Issues](https://img.shields.io/github/issues/reshabweb/HEALTHCARE-BACKEND?style=for-the-badge\&color=F59E0B)](https://github.com/reshabweb/HEALTHCARE-BACKEND/issues)
-[![License](https://img.shields.io/github/license/reshabweb/HEALTHCARE-BACKEND?style=for-the-badge\&color=10B981)](https://github.com/reshabweb/HEALTHCARE-BACKEND/blob/main/LICENSE)
-
+[![License](https://img.shields.io/github/license/reshabweb/HEALTHCARE-BACKEND?style=for-the-badge&color=10B981)](https://github.com/reshabweb/HEALTHCARE-BACKEND/blob/main/LICENSE)
 </div>
 
 ---
