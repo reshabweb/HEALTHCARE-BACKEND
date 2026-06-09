@@ -35,7 +35,7 @@ The application provides JWT-based authentication, patient management, doctor ma
 
 ### Entity Relationship Diagram
 
-![ER Diagram](screenshots/er-diagram.png)
+![ER Diagram](screenshots/ER-Diagram.png)
 
 ### Relationships
 
